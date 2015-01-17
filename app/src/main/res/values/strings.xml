@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleTodo</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_add_item">Add Item</string>
+    <string name="et_new_item">Enter a new item</string>
+
+</resources>
